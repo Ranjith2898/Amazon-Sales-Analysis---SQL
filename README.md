@@ -1,22 +1,19 @@
 # Amazon Sales Analysis
 
-## 🔍 Objective:
+## 🔍 Objective:<br>
+This project analyzes sales transactions from three Amazon branches located in **Mandalay, Yangon, and Naypyitaw**. The dataset contains **17 columns and 1000 rows**, covering aspects like customer behavior, product performance, and revenue trends.
 
-This project analyzes sales transactions from three Amazon branches located in Mandalay, Yangon, and Naypyitaw. The dataset contains 17 columns and 1000 rows, covering aspects like customer behavior, product performance, and revenue trends.
+## 📌 Dataset Overview<br>
+The dataset includes:<br>
 
-## 📌 Dataset Overview
+✅ Invoice_ID, Branch, City, Customer_type, Gender, Product_line, Unit_price, Quantity<br>
+✅ VAT (Tax), Total, Date, Time, Payment_Method, COGS, Gross_margin_percentage, Gross_income, Rating<br>
 
-The dataset includes:
+## 📊 Key Analyses & Insights<br>
 
-✅ Invoice_ID, Branch, City, Customer_type, Gender, Product_line, Unit_price, Quantity
+1️⃣ Product Performance Analysis<br>
 
-✅ VAT (Tax), Total, Date, Time, Payment_Method, COGS, Gross_margin_percentage, Gross_income, Rating
-
-## 📊 Key Analyses & Insights
-
-1️⃣ Product Performance Analysis
-
-✅ Top Performing Products:
+✅ Top Performing Products:<br>
 
 * Food and Beverages: Highest revenue & top-rated (Avg. rating: 7.11)
 * Sports and Travel: High revenue, competitive sales
@@ -29,7 +26,7 @@ The dataset includes:
 
 * Home and Lifestyle has the lowest rating (6.84) → Needs improvement!
 
-2️⃣ Sales Analysis
+2️⃣ Sales Analysis<br>
 
 📅 Monthly Trends:
 
@@ -46,7 +43,7 @@ The dataset includes:
 * Members vs. Normal Customers
 * Gender-based purchase analysis
 
-3️⃣ Customer Analysis
+3️⃣ Customer Analysis<br>
 
 👥 Customer Segmentation:
 
@@ -60,13 +57,12 @@ The dataset includes:
 
 ## 🔎 Approach Used
 
-1️⃣ Data Wrangling
+### 1️⃣ Data Wrangling
 
-✅ Created Amazon Database and imported sales data.
-
+✅ Created Amazon Database and imported sales data.<br>
 ✅ Checked for missing/null values and handled them appropriately.
 
-## 2️⃣ Feature Engineering
+### 2️⃣ Feature Engineering
 
 📌 New Columns Added:
 
