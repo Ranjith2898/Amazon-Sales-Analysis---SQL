@@ -1,9 +1,10 @@
 # Amazon Sales Analysis
 
-🔍 Objective:
+## 🔍 Objective:
+
 This project analyzes sales transactions from three Amazon branches located in Mandalay, Yangon, and Naypyitaw. The dataset contains 17 columns and 1000 rows, covering aspects like customer behavior, product performance, and revenue trends.
 
-📌 Dataset Overview
+## 📌 Dataset Overview
 
 The dataset includes:
 
@@ -11,7 +12,7 @@ The dataset includes:
 
 ✅ VAT (Tax), Total, Date, Time, Payment_Method, COGS, Gross_margin_percentage, Gross_income, Rating
 
-📊 Key Analyses & Insights
+## 📊 Key Analyses & Insights
 
 1️⃣ Product Performance Analysis
 
@@ -57,7 +58,7 @@ The dataset includes:
 * Members contribute more to revenue & gross income
 * Higher transaction values per purchase
 
-🔎 Approach Used
+## 🔎 Approach Used
 
 1️⃣ Data Wrangling
 
@@ -65,7 +66,7 @@ The dataset includes:
 
 ✅ Checked for missing/null values and handled them appropriately.
 
-2️⃣ Feature Engineering
+## 2️⃣ Feature Engineering
 
 📌 New Columns Added:
 
